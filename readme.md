@@ -22,3 +22,4 @@ to load the front and backend
 Once docker-compose finishes loading up, the backend should be running and able to connect to the database.
 After the server is up, make sure you test it by pointing your browser to https://obelusfamily-anythink-market-5csve-q454xjv75p4f4jp7-3000.githubpreview.dev/api/ping
 If everything is working properly, you’ll be able to create a new user on https://obelusfamily-anythink-market-5csve-q454xjv75p4f4jp7-3001.githubpreview.dev/register
+and that's it, you're all set up.
